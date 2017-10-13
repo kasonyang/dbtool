@@ -7,7 +7,7 @@ status=published
 
 # Overview
 
-DBTool is a table comparing tool.
+DBTool is a table comparing tool for mysql.
 
 # Installation
 
